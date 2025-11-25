@@ -2,9 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://words.choco.pub/post/dn42-as4242423845/</loc>
+  </url><url>
     <loc>https://words.choco.pub/categories/</loc>
   </url><url>
     <loc>https://words.choco.pub/</loc>
+  </url><url>
+    <loc>https://words.choco.pub/post/</loc>
   </url><url>
     <loc>https://words.choco.pub/tags/</loc>
   </url>
