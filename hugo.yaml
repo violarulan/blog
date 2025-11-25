@@ -122,9 +122,8 @@ menu:
       url: /tags/
       weight: 20
     - identifier: dn42
-     name: DN42
-     url: /post/dn42-as4242423845/
-     weight: 5
+      name: DN42
+      weight: 5
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
