@@ -6,65 +6,14 @@
     <description>Recent content on Choco {Blog}</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-Hans</language>
+    <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://words.choco.pub/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>AS4242423845</title>
       <link>https://words.choco.pub/post/dn42-as4242423845/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://words.choco.pub/post/dn42-as4242423845/</guid>
-      <description>&lt;h1 id=&#34;as4242423845&#34;&gt;AS4242423845&lt;/h1&gt;
-&lt;p&gt;AS4242423845 CHOCO offers peering points in China, United States, Hong Kong and Deutschland.&lt;/p&gt;
-&lt;p&gt;Contact: &lt;a href=&#34;mailto:karuru@aerodefense.co.uk&#34;&gt;karuru@aerodefense.co.uk&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Telegram: &lt;a href=&#34;https://t.me/magicaleffector&#34;&gt;t.me/magicaleffector&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;GPG: &lt;a href=&#34;https://keyserver.ubuntu.com/pks/lookup?search=0x790baaf15a62bc56bc7c884b92663ebf14f7eb09&amp;amp;fingerprint=on&amp;amp;op=index&#34;&gt;0x790baaf15a62bc56bc7c884b92663ebf14f7eb09&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;nodes&#34;&gt;Nodes&lt;/h2&gt;
-&lt;p&gt;Technical specs:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ASN: 4242423845&lt;/li&gt;
-&lt;li&gt;RTT &amp;lt; 100ms.&lt;/li&gt;
-&lt;li&gt;Wireguard peering only.&lt;/li&gt;
-&lt;li&gt;Prefer IPv6 Link-local address with MP-BGP and extended next hop.&lt;/li&gt;
-&lt;li&gt;Wireguard default port: 20000 + last 4 digits of you DN42 ASN. (If your DN42 ASN starts with 420, use 30000 + last 4 digits of you DN42 ASN.)&lt;/li&gt;
-&lt;li&gt;Clearnet endpoints are provided with dual-stack if available. You can append &lt;code&gt;v4.&lt;/code&gt; or &lt;code&gt;v6.&lt;/code&gt; at the beginning of the address to specify IP protocol.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Location&lt;/th&gt;
-          &lt;th&gt;Clearnet Endpoint&lt;/th&gt;
-          &lt;th&gt;Wireguard Public Key&lt;/th&gt;
-          &lt;th&gt;IPv6 Link-Local&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Hong Kong&lt;/td&gt;
-          &lt;td&gt;hkg1.hk.dn42.aerodefense.co.uk&lt;/td&gt;
-          &lt;td&gt;jR21mrHsYv4KHPrRgtPPTl4BNU2by6dRV110nUIVfU4=&lt;/td&gt;
-          &lt;td&gt;fe80::114&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;San Jose&lt;/td&gt;
-          &lt;td&gt;sjc1.us.dn42.aerodefense.co.uk&lt;/td&gt;
-          &lt;td&gt;ko9F1tF1dyIFwUs7IdnSengK3P0PO1FXG/6iEUYOY0A=&lt;/td&gt;
-          &lt;td&gt;fe80::114&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Frankfurt&lt;/td&gt;
-          &lt;td&gt;fra1.de.dn42.aerodefense.co.uk&lt;/td&gt;
-          &lt;td&gt;nAvTJaKj65MTFHIqL+0OV0A3o99c7y2qbnXkAM0DtmY=&lt;/td&gt;
-          &lt;td&gt;fe80::114&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Guang Zhou&lt;/td&gt;
-          &lt;td&gt;&amp;lt;contact me to get one&amp;gt;&lt;/td&gt;
-          &lt;td&gt;eH6yEnb3W9DBI0JzqNQTuTiLQMVc9g6nl8/qnuD4cjQ=&lt;/td&gt;
-          &lt;td&gt;fe80::114&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;bgp-communities&#34;&gt;BGP Communities&lt;/h2&gt;
-&lt;p&gt;AS4242423845 respect and use the standard criteria on the &lt;a href=&#34;https://dn42.eu/howto/BGP-communities&#34;&gt;DN42 wiki&lt;/a&gt;, such as:&lt;/p&gt;</description>
+      <description>DN42 AS4242423845 infomation</description>
     </item>
   </channel>
 </rss>
