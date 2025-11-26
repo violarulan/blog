@@ -92,7 +92,7 @@ params:
 
   cover:
     hidden: false # show covers by default
-    hiddenInList: true # hide on list pages and home
+    hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # show cover on single page
 
   editPost:
