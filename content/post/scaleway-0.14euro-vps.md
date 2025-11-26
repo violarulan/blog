@@ -8,6 +8,7 @@ tags: ["DN42", "Scaleway", "VPS"]
 ShowToc: true
 cover:
   image: /images/Snipaste_2025-11-26_13-55-17.png
+  relative: false
 #   hiddenInList: true
 ---
 
