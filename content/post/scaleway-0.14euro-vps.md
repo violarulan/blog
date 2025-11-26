@@ -7,7 +7,7 @@ summary: "每月只需一块钱，1C1G，不限流量，KVM，还要啥自行车
 tags: ["DN42", "Scaleway", "VPS"]
 ShowToc: true
 cover:
-  image: /static/images/Snipaste_2025-11-26_13-55-17.png
+  image: /images/Snipaste_2025-11-26_13-55-17.png
 #   hiddenInList: true
 ---
 
@@ -32,19 +32,19 @@ cover:
 
 选择类别中的 Development，找到 STARDUST1-S。地区随意，如果缺货换一个地区。下单默认配置：1 CPU、1GB、10GB（硬盘稍后手动删除），系统随便选，SSH Key 自行添加。
 
-![](/static/images/Snipaste_2025-11-26_13-16-07.png)
+![](/images/Snipaste_2025-11-26_13-16-07.png)
 
 IPv4 取消勾选（不然每月 €2.92）。
 
-![](/static/images/Snipaste_2025-11-26_13-16-16.png)
+![](/images/Snipaste_2025-11-26_13-16-16.png)
 
 此时结算价格为每月预估 €0.97，如果不对请重新检查配置。
 
-![](/static/images/Snipaste_2025-11-26_13-22-58.png)
+![](/images/Snipaste_2025-11-26_13-22-58.png)
 
 **或者可以用右上角的 Cli 下单：**
 
-![](/static/images/Snipaste_2025-11-26_13-17-17.png)
+![](/images/Snipaste_2025-11-26_13-17-17.png)
 
 法国巴黎可用区1 PAR-1：
 ```
