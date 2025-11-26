@@ -6,11 +6,14 @@ description: "Scaleway VPS 每月只需一块钱，1C1G，不限流量，KVM，�
 summary: "每月只需一块钱，1C1G，不限流量，KVM，还要啥自行车"
 tags: ["DN42", "Scaleway", "VPS"]
 ShowToc: true
+cover:
+  image: /static/images/Snipaste_2025-11-26_13-55-17.png
+#   hiddenInList: true
 ---
 
 > Credit: 本文参考 [Moohr的教程](https://www.mhr.hk/posts/alpine-on-scw/)
 
-折腾 #DN42 的过程就是买 VPS 的血泪史（不知道 DN42 可以查看 Lantian 师祖的[这篇文章](https://lantian.pub/article/modify-website/dn42-experimental-network-2020.lantian/)）。DN42 玩家们普遍使用 [Bird](https://bird.network.cz/)，内存占用小，1G 内存的机器整张 Fulltable 绰绰有余。DN42 的网络小的多，节省成本尽量选择小 VPS。OS 选择精简的 [Alpine Linux](https://www.alpinelinux.org/)。
+折腾 #DN42 的过程就是买 VPS 的血泪史（不知道 DN42 可以查看 Lantian 师祖的[这篇文章](https://lantian.pub/article/modify-website/dn42-experimental-network-2020.lantian/)）。DN42 玩家们普遍使用 [Bird](https://bird.network.cz/)，内存占用小，1G 内存的机器整张 Fulltable 绰绰有余。DN42 的网络小的多，节省成本尽量选择小 VPS。本文选择精简的 [Alpine Linux](https://www.alpinelinux.org/)。
 
 此文章最终部署的 VPS 规格为：
 - CPU: 1 core
