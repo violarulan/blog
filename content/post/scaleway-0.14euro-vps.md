@@ -26,7 +26,7 @@ cover:
 
 ⚠️特别注意：无公网 IPv4⚠️
 
-# 下单
+## 下单
 
 我们的目标机型是 STARDUST1-S 型 VPS。
 
@@ -59,23 +59,23 @@ scw instance server create zone=nl-ams-1 root-volume=local:10GB name=nl type=STA
 scw instance server create zone=pl-waw-1 root-volume=local:10GB name=pl type=STARDUST1-S ipv6=true ip=none
 ```
 
-# 配置 VPS
+## 配置 VPS
 
 默认的 10GB 硬盘对我们来说还是太大了，而且一个月要 €0.86，不符合穷鬼原则。我们删除它再建立一个 1G 小盘，然后再安装系统。
 
-## 配置硬盘
+### 配置硬盘
 
-### 删除默认 10G 的 Block Storage
+#### 删除默认 10G 的 Block Storage
 
 关掉 VPS，进入左侧菜单 Storage ➡️ Block Storage，可用区一般会自动选择，Detach 现有的这块盘然后删除。
  
-### 创建 1G 系统盘
+#### 创建 1G 系统盘
 
 左侧菜单 Storage ➡️ Local Storage 创建，选择相同可用区，大小 1GB（酌情增加，€0.03/GB/mo）。
 
 由于面板 Bug，此时是无法 Attach 到机器上的，先创建，然后在菜单 Attach 就好使了。
 
-### 安装 Alpine
+#### 安装 Alpine
 
 此部分为 ISO 通过 alpine-setup 安装，也可[通过 DD 安装](https://www.mhr.hk/posts/alpine-on-scw/)。
 
