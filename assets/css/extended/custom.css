@@ -1,3 +1,5 @@
 body {
-  font: 'wenfeng-xwxxh', -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
+  font-family: 'wenfeng-xwxxh', -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
 }
+
+code, pre { font-family: Cascadia Mono, Consolas, monospace; }
