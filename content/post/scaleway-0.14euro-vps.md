@@ -12,7 +12,7 @@ cover:
 #   hiddenInList: true
 ---
 
-> Credit: 本文参考 [Moohr的教程](https://www.mhr.hk/posts/alpine-on-scw/)
+> Credit: 本文参考 [Moohr 的教程](https://www.mhr.hk/posts/alpine-on-scw/)
 
 折腾 #DN42 的过程就是买 VPS 的血泪史（不知道 DN42 可以查看 Lantian 师祖的[这篇文章](https://lantian.pub/article/modify-website/dn42-experimental-network-2020.lantian/)）。DN42 玩家们普遍使用 [Bird](https://bird.network.cz/)，内存占用小，1G 内存的机器整张 Fulltable 绰绰有余。DN42 的网络小的多，节省成本尽量选择小 VPS。本文选择精简的 [Alpine Linux](https://www.alpinelinux.org/)。
 
@@ -43,7 +43,7 @@ IPv4 取消勾选（不然每月 €2.92）。
 
 ![](/images/scaleway-0.14euro-vps/Snipaste_2025-11-26_13-22-58.png)
 
-**或者可以用右上角的 Cli 下单：**
+**或者可以用右上角的 Cli 下单（据说可无视售罄强开）：**
 
 ![](/images/scaleway-0.14euro-vps/Snipaste_2025-11-26_13-17-17.png)
 
@@ -55,9 +55,9 @@ scw instance server create zone=fr-par-1 root-volume=local:10GB name=fr type=STA
 ```
 scw instance server create zone=nl-ams-1 root-volume=local:10GB name=nl type=STARDUST1-S ipv6=true ip=none
 ```
-波兰华沙可用区1 WAW-1：
+波兰华沙可用区1 WAW-2：
 ```
-scw instance server create zone=pl-waw-1 root-volume=local:10GB name=pl type=STARDUST1-S ipv6=true ip=none
+scw instance server create zone=pl-waw-2 root-volume=local:10GB name=pl type=STARDUST1-S ipv6=true ip=none
 ```
 
 ## 配置 VPS
