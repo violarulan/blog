@@ -74,9 +74,9 @@ scw instance server create zone=pl-waw-2 root-volume=local:10GB name=pl type=STA
 
 左侧菜单 Storage ➡️ Local Storage 创建，选择相同可用区，大小 1GB（酌情增加，€0.03/GB/mo）。
 
-由于面板 Bug，此时是无法 Attach 到机器上的，先创建，然后在菜单 Attach 就好使了。
+由于面板 Bug，此时是无法 Attach 到机器上的，先创建，然后在菜单 Attach。
 
-#### 安装 Alpine
+### 安装 Alpine
 
 此部分为 ISO 通过 alpine-setup 安装，也可[通过 DD 安装](https://www.mhr.hk/posts/alpine-on-scw/)。
 
@@ -130,7 +130,7 @@ iface eth0 inet6 static
 
 此时可能会出现安装失败，找不到 `dosfstools` `grub-efi` 等，先不急。
 
-先配置一下 DNS（如没有），然后配置好官方软件源
+先配置一下 DNS（如没有），然后配置好官方软件源。
 
 ```
 echo "http://dl-cdn.alpinelinux.org/alpine/latest-stable/main" >> /etc/apk/repositories
@@ -159,3 +159,7 @@ setup-disk -s 0
 依次输入 `vda` `sys` `y` 即完成
 
 如不报错可 reboot
+
+### 网络
+
+可使用 Cloudflare Warp 访问 IPv4，网上教程有很多。
