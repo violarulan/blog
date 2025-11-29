@@ -140,6 +140,8 @@ echo "#http://dl-cdn.alpinelinux.org/alpine/edge/community" >> /etc/apk/reposito
 echo "#http://dl-cdn.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
 ```
 
+此时如果仍没有网，`ip a` 检查 eth0 是否启用，如未启用：`ip link set dev eth0 up`
+
 安装缺失工具
 
 ```
