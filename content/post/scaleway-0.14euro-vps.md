@@ -118,6 +118,7 @@ setup-alpine
 - 配置主机名，自行输入。
 - 配置网络，输入 `done`，下一步按 `y` 手动配置。
 ```
+auto eth0
 iface eth0 inet6 static
     address <ipv6_address>
     netmask 64
@@ -139,8 +140,6 @@ echo "#http://dl-cdn.alpinelinux.org/alpine/edge/main" >> /etc/apk/repositories
 echo "#http://dl-cdn.alpinelinux.org/alpine/edge/community" >> /etc/apk/repositories
 echo "#http://dl-cdn.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
 ```
-
-此时如果仍没有网，`ip a` 检查 eth0 是否启用，如未启用：`ip link set dev eth0 up`
 
 安装缺失工具
 
