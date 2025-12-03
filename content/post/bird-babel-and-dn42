@@ -1,0 +1,9 @@
+---
+author: ["Me"]
+title: "DN42 网络通过 Bird2 配置 Babel+RTT"
+date: "2025-11-25"
+description: "Configure Babel+RTT with Bird on DN42"
+summary: "介绍一种除 OSPF 外的 IGP 路由方式：Babel，使用 Bird2 内置 Babel 实现"
+tags: ["DN42", "Babel", "Bird"]
+ShowToc: true
+---
