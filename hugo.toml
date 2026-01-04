@@ -459,7 +459,7 @@ disableThemeInject = false
 
 # Author Configuration
 [params.author]
-name = "Choco
+name = "Choco"
 email = "karuru@aerodefense.co.uk"
 link = "https://words.choco.pub"
 avatar = "karuru@aerodefense.co.uk"
