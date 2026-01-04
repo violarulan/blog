@@ -31,8 +31,8 @@ params:
   author:
     name: Choco
     email: "karuru@aerodefense.co.uk"
-    link: ""
-    avatar: ""
+    link: "https://words.choco.pub"
+    avatar: "karuru@aerodefense.co.uk"
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
