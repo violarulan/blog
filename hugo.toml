@@ -459,15 +459,15 @@ disableThemeInject = false
 
 # Author Configuration
 [params.author]
-name = ""
-email = ""
-link = ""
-avatar = ""
+name = "Choco
+email = "karuru@aerodefense.co.uk"
+link = "https://words.choco.pub"
+avatar = "karuru@aerodefense.co.uk"
 
 # FixIt 0.3.0 | NEW public Git repository information only then enableGitInfo is true
 [params.gitInfo]
 # e.g. "https://github.com/hugo-fixit/docs"
-repo = ""
+repo = "https://github.com/violarulan/blog"
 branch = "main"
 # the content directory path relative to the root of the repository
 dir = "content"
@@ -478,7 +478,7 @@ issueTpl = "title=[BUG]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0
 # App icon config
 [params.app]
 # optional site title override for the app when added to an iOS home screen or Android launcher
-title = "FixIt"
+title = "Choco {Blog}"
 # whether to omit favicon resource links
 noFavicon = false
 # modern SVG favicon to use in place of older style .png and .ico files
@@ -495,7 +495,7 @@ dark = "#252627"
 
 # Search config
 [params.search]
-enable = false
+enable = true
 # type of search engine ["algolia", "fuse", "cse", "post-chat"]
 type = "fuse"
 # max index length of the chunked content
@@ -568,9 +568,9 @@ typeit = false
 # FixIt 0.2.12 | NEW Header subtitle config
 [params.header.subtitle]
 # subtitle name
-name = ""
+name = "Choco's blog"
 # whether to use typeit animation for subtitle name
-typeit = false
+typeit = true
 
 # FixIt 0.2.18 | NEW Breadcrumb config
 [params.breadcrumb]
@@ -592,7 +592,7 @@ reverse = false
 [params.footer]
 enable = true
 # whether to show copyright info
-copyright = true
+copyright = false
 # whether to show the author
 author = true
 # Site creation year
