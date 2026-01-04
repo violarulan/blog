@@ -1,7 +1,8 @@
 baseURL: https://words.choco.pub/
 languageCode: zh-Hans
 title: Choco {Blog}
-theme: ["hugo-cloak-email", "PaperMod"]
+theme: ["hugo-cloak-email", "FixIt"]
+defaultContentLanguage: zh-cn
 
 enableRobotsTXT: true
 buildDrafts: false

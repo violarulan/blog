@@ -6,3 +6,6 @@
 	path = themes/hugo-cloak-email
 	url = https://github.com/martignoni/hugo-cloak-email.git
 
+[submodule "themes/FixIt"]
+	path = themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt.git
