@@ -8,11 +8,7 @@ tags:
   - Scaleway
 catagories:
   - Servers
-featuredImage: 
-cover: /images/scaleway-0.14euro-vps/Snipaste_2025-11-26_13-55-17.png
-  image: /images/scaleway-0.14euro-vps/Snipaste_2025-11-26_13-55-17.png
-  relative: false
-#   hiddenInList: true
+featuredImage: /images/scaleway-0.14euro-vps/Snipaste_2025-11-26_13-55-17.png
 ---
 
 > Credit: 本文参考 [Moohr 的教程](https://www.mhr.hk/posts/alpine-on-scw/)
