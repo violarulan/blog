@@ -142,14 +142,6 @@ menu:
       url: /post/dn42-as4242423845/
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
-markup:
-  highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
 caches:
   images:
     dir: :cacheDir/images
