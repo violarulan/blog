@@ -1,0 +1,12 @@
+[Interface]
+PrivateKey = <my_wg_private_key>
+ListenPort = <listen_port>
+# MTU = 1412
+Table = off
+PostUp = ip addr add fe80::114/64 dev %i
+PostUp = sysctl -w net.ipv6.conf.%i.autoconf=0
+
+[Peer]
+PublicKey = <remote_public_key>
+Endpoint = <remote_endpoint>
+AllowedIPs = 10.0.0.0/8, 172.20.0.0/14, 172.31.0.0/16, fd00::/8, fe80::/64
