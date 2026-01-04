@@ -4,6 +4,16 @@ title: Choco {Blog}
 theme: ["hugo-cloak-email", "FixIt"]
 defaultContentLanguage: zh-cn
 
+markup:
+  _merge: shallow
+
+outputs:
+  _merge: shallow
+
+taxonomies:
+  _merge: shallow
+
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -18,7 +28,11 @@ params:
   title: Choco
   description: ""
   keywords: [Blog, Choco]
-  author: Me
+  author:
+    name: Choco
+    email: "karuru@aerodefense.co.uk"
+    link: ""
+    avatar: ""
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
