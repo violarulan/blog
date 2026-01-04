@@ -109,5 +109,5 @@ Only route origin region and country are considered in route selection.
 ---
 
 > 作者: [Choco](https://words.choco.pub)  
-> URL: http://localhost:1313/posts/dn42-as4242423845/  
+> URL: https://words.choco.pub/dn42-as4242423845/  
 
