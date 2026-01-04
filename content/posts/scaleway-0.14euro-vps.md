@@ -3,9 +3,13 @@ title: "Scaleway €0.14 IPv6-only 廉价 KVM VPS"
 date: "2025-11-26"
 description: "Scaleway VPS 每月只需一块钱，1C1G，不限流量，KVM，还要啥自行车"
 summary: "每月只需一块钱，1C1G，不限流量，KVM，还要啥自行车"
-tags: ["DN42", "Scaleway", "VPS"]
-ShowToc: true
-cover:
+tags:
+  - VPS
+  - Scaleway
+catagories:
+  - Servers
+featuredImage: 
+cover: /images/scaleway-0.14euro-vps/Snipaste_2025-11-26_13-55-17.png
   image: /images/scaleway-0.14euro-vps/Snipaste_2025-11-26_13-55-17.png
   relative: false
 #   hiddenInList: true
