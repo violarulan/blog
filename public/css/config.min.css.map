@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "config.min.css",
-	"sourceRoot": "/home/karuru/Documents/git/blog",
+	"sourceRoot": "/home/karuru/Documents/git/choco",
 	"sources": [
 		"themes/FixIt/assets/css/config.template.scss",
 		"themes/FixIt/assets/css/_variables.scss",

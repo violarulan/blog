@@ -8,20 +8,20 @@
     <language>zh-CN</language>
     <managingEditor>karuru@aerodefense.co.uk (Choco)</managingEditor>
     <webMaster>karuru@aerodefense.co.uk (Choco)</webMaster>
-    <lastBuildDate>Sun, 04 Jan 2026 18:38:27 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 23:49:13 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/dn42/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scaleway €0.14 IPv6-only 廉价 KVM VPS</title>
-      <link>http://localhost:1313/post/scaleway-0.14euro-vps/</link>
+      <link>http://localhost:1313/posts/scaleway-0.14euro-vps/</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate><author>karuru@aerodefense.co.uk (Choco)</author>
-      <guid>http://localhost:1313/post/scaleway-0.14euro-vps/</guid>
+      <guid>http://localhost:1313/posts/scaleway-0.14euro-vps/</guid>
       <description>每月只需一块钱，1C1G，不限流量，KVM，还要啥自行车</description>
     </item>
     <item>
       <title>AS4242423845</title>
-      <link>http://localhost:1313/post/dn42-as4242423845/</link>
+      <link>http://localhost:1313/posts/dn42-as4242423845/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate><author>karuru@aerodefense.co.uk (Choco)</author>
-      <guid>http://localhost:1313/post/dn42-as4242423845/</guid>
+      <guid>http://localhost:1313/posts/dn42-as4242423845/</guid>
       <description>DN42 AS4242423845 infomation</description>
     </item>
   </channel>
