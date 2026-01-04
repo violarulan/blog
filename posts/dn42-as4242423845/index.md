@@ -10,13 +10,13 @@ AS4242423845 CHOCO offers peering points in the following regions:
 - 🇳🇱 Amsterdam, Netherlands
 - 🇵🇱 Warsaw, Poland
 
-Contact: 
+Contact: {{< cloakemail "karuru@aerodefense.co.uk" >}}
 
 Telegram: [t.me/magicaleffector](https://t.me/magicaleffector)
 
 GPG: [0x790baaf15a62bc56bc7c884b92663ebf14f7eb09](https://keyserver.ubuntu.com/pks/lookup?search=0x790baaf15a62bc56bc7c884b92663ebf14f7eb09&fingerprint=on&op=index)
 
-## Nodes
+# Nodes
 
 Technical specs:
 
@@ -89,7 +89,7 @@ Technical specs:
 | IPv6 Address         | fdd0:b9c2:f57a::8                                   |
 | Remarks              | Public IPv6 only, IPv4 provided by Cloudflare Warp|
 
-## BGP Communities
+# BGP Communities
 
 AS4242423845 respects and uses the standard criteria on the [DN42 wiki](https://dn42.eu/howto/BGP-communities):
 
@@ -101,7 +101,7 @@ AS4242423845 respects and uses the standard criteria on the [DN42 wiki](https://
 
 Only route origin region and country are considered in route selection.
 
-### BGP Large Communities
+# BGP Large Communities
 
 *WIP*
 
@@ -109,5 +109,5 @@ Only route origin region and country are considered in route selection.
 ---
 
 > 作者: [Choco](https://words.choco.pub)  
-> URL: http://localhost:1313/post/dn42-as4242423845/  
+> URL: https://words.choco.pub/posts/dn42-as4242423845/  
 
