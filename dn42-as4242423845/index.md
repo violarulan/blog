@@ -10,12 +10,12 @@ AS4242423845 CHOCO offers peering points in the following regions:
 - 🇳🇱 Amsterdam, Netherlands
 - 🇵🇱 Warsaw, Poland
 
+
 {{< mapbox
   lng=113.953277
   lat=22.559102
-  markers="[{\"lng\":114.17,\"lat\":22.30,\"description\":\"HongKong\"},{\"lng\":113.28,\"lat\":23.13,\"description\":\"Guangzhou\"},{\"lng\":21.06,\"lat\":52.23,\"description\":\"Warsaw\"},{\"lng\":8.73,\"lat\":50.12,\"description\":\"FrankfurtamMain\"},{\"lng\":3.37,\"lat\":48.51,\"description\":\"Paris\"},{\"lng\":4.92,\"lat\":52.36,\"description\":\"Amsterdam\"},{\"lng\":-121.87,\"lat\":37.32,\"description\":\"SanJose\"}]"
+  markers="[{\"lng\": 113.81841, \"lat\": 22.637524, \"description\": \"宝安国际机场\"},{\"lng\": 113.953386, \"lat\": 22.559052, \"description\": \"标记 2\"},{\"lng\": 114.035746,\"lat\": 22.615667, \"description\": \"深圳北站\"}]"
 >}}
-
 
 Contact: {{< cloakemail "karuru@aerodefense.co.uk" >}}
 
