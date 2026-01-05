@@ -78,7 +78,7 @@ name = "Archives"
 url = "/archives/"
 # title will be shown when you hover on this menu link
 title = ""
-weight = 1
+weight = 4
 
 # FixIt 0.2.14 | NEW add user-defined content to menu items
 [menus.main.params]
@@ -101,7 +101,7 @@ post = ""
 name = "Categories"
 url = "/categories/"
 title = ""
-weight = 2
+weight = 5
 
 [menus.main.params]
 icon = "fa-solid fa-folder-tree"
@@ -114,7 +114,7 @@ post = ""
 name = "Tags"
 url = "/tags/"
 title = ""
-weight = 3
+weight = 6
 
 [menus.main.params]
 icon = "fa-solid fa-tags"
