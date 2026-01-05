@@ -1,4 +1,4 @@
-# AS4242423845
+# DN42
 
 
 AS4242423845 CHOCO offers peering points in the following regions: 
