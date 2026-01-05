@@ -125,12 +125,12 @@ icon = "fa-solid fa-tags"
 # -------------------------------------------------------------------------------------
 
 [related]
-includeNewer = false
+includeNewer = true
 threshold = 80
 toLower = false
 
 [[related.indices]]
-applyFilter = false
+applyFilter = true
 cardinalityThreshold = 0
 name = 'keywords'
 pattern = ''
@@ -148,7 +148,7 @@ type = 'basic'
 weight = 10
 
 [[related.indices]]
-applyFilter = false
+applyFilter = true
 cardinalityThreshold = 0
 name = 'tags'
 pattern = ''
@@ -420,14 +420,14 @@ collection = "collections"
 # FixIt 0.2.15 | CHANGED FixIt theme version
 version = "0.4.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
 # site description
-description = ""
+description = "Choco's blog"
 # site keywords
-keywords = []
+keywords = ["AS203309", "Choco"]
 # site default theme ["light", "dark", "auto"]
 defaultTheme = "auto"
 # which hash function used for SRI, when empty, no SRI is used
 # ["sha256", "sha384", "sha512", "md5"]
-fingerprint = ""
+fingerprint = "sha512"
 # date format
 dateFormat = "2006-01-02"
 # website images for Open Graph and Twitter Cards
@@ -602,7 +602,7 @@ gov = ""
 # ICP info only in China (HTML format is supported)
 icp = ""
 # license info (HTML format is supported)
-license = ""
+license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>'
 
 # FixIt 0.3.0 | NEW whether to show Hugo and theme info
 [params.footer.powered]
@@ -612,7 +612,7 @@ themeLogo = true
 
 # FixIt 0.2.17 | CHANGED Site creation time
 [params.footer.siteTime]
-enable = false
+enable = true
 animate = true
 icon = "fa-solid fa-heartbeat"
 pre = ""
@@ -1467,9 +1467,9 @@ versionCheck = true
 
 # Disqus comment config (https://disqus.com)
 [params.page.comment.disqus]
-enable = false
+enable = true
 # Disqus shortname to use Disqus in posts
-shortname = ""
+shortname = "choco-blog"
 
 # Gitalk comment config (https://github.com/gitalk/gitalk)
 [params.page.comment.gitalk]
