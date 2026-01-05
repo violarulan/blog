@@ -14,8 +14,8 @@
 - Location: Amsterdam/Paris/Warsaw
 - Network: IPv6(/64), IPv4(w/ Cloudflare Warp)
 
-[!特别注意]
-> 无公网 IPv4, 通过 Cloudflare Warp 访问 IPv4 资源
+[!WARNING]
+> 特别注意：无公网 IPv4, 通过 Cloudflare Warp 访问 IPv4 资源
 
 ## 下单
 
