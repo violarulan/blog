@@ -1467,17 +1467,17 @@ versionCheck = true
 
 # Disqus comment config (https://disqus.com)
 [params.page.comment.disqus]
-enable = true
+enable = false
 # Disqus shortname to use Disqus in posts
 shortname = "choco-blog"
 
 # Gitalk comment config (https://github.com/gitalk/gitalk)
 [params.page.comment.gitalk]
-enable = false
-owner = ""
-repo = ""
-clientId = ""
-clientSecret = ""
+enable = true
+owner = "violarulan"
+repo = "blog"
+clientId = "Ov23liPJCl3jCgfIkLkE"
+clientSecret = "48127da97aadc02a4de7d5de209d2b171cffaa7d"
 
 # Valine comment config (https://github.com/xCss/Valine)
 [params.page.comment.valine]
