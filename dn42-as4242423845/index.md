@@ -10,6 +10,13 @@ AS4242423845 CHOCO offers peering points in the following regions:
 - 🇳🇱 Amsterdam, Netherlands
 - 🇵🇱 Warsaw, Poland
 
+{{< mapbox
+  lng=113.953277
+  lat=22.559102
+  markers="[{\"lng\":114.17,\"lat\":22.30,\"description\":\"HongKong\"},{\"lng\":113.28,\"lat\":23.13,\"description\":\"Guangzhou\"},{\"lng\":21.06,\"lat\":52.23,\"description\":\"Warsaw\"},{\"lng\":8.73,\"lat\":50.12,\"description\":\"FrankfurtamMain\"},{\"lng\":3.37,\"lat\":48.51,\"description\":\"Paris\"},{\"lng\":4.92,\"lat\":52.36,\"description\":\"Amsterdam\"},{\"lng\":-121.87,\"lat\":37.32,\"description\":\"SanJose\"}]"
+>}}
+
+
 Contact: {{< cloakemail "karuru@aerodefense.co.uk" >}}
 
 Telegram: [t.me/magicaleffector](https://t.me/magicaleffector)
