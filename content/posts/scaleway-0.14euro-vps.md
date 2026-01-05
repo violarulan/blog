@@ -5,6 +5,7 @@ description: "Scaleway VPS 每月只需一块钱，1C1G，不限流量，KVM，�
 summary: "每月只需一块钱，1C1G，不限流量，KVM，还要啥自行车"
 tags: ["VPS", "Scaleway"]
 categories: ["VPS"]
+collections: ["VPS"] 
 featuredImage: /images/scaleway-0.14euro-vps/Snipaste_2025-11-26_13-55-17.png
 ---
 
