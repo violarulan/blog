@@ -22,7 +22,8 @@ featuredImage: /images/scaleway-0.14euro-vps/Snipaste_2025-11-26_13-55-17.png
 - Location: Amsterdam/Paris/Warsaw
 - Network: IPv6(/64), IPv4(w/ Cloudflare Warp)
 
-⚠️特别注意：无公网 IPv4⚠️
+[!特别注意]
+> 无公网 IPv4, 通过 Cloudflare Warp 访问 IPv4 资源
 
 ## 下单
 
@@ -160,4 +161,4 @@ setup-disk -s 0
 
 ## 网络
 
-可使用 Cloudflare Warp 访问 IPv4，网上教程有很多。
+可使用 Cloudflare Warp 访问 IPv4。如部署脚本 https://gitlab.com/fscarmen/warp
