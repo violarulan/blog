@@ -22,7 +22,7 @@ featuredImage: /images/scaleway-0.14euro-vps/Snipaste_2025-11-26_13-55-17.png
 - Location: Amsterdam/Paris/Warsaw
 - Network: IPv6(/64), IPv4(w/ Cloudflare Warp)
 
-[!WARNING]
+> [!WARNING]
 > 特别注意：无公网 IPv4, 通过 Cloudflare Warp 访问 IPv4 资源
 
 ## 下单
