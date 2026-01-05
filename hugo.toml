@@ -435,7 +435,7 @@ images = []
 # FixIt 0.2.12 | NEW enable PWA
 enablePWA = false
 # FixIt 0.2.14 | NEW whether to add external Icon for external links automatically
-externalIcon = false
+externalIcon = true
 # FixIt 0.3.13 | NEW whether to capitalize titles
 capitalizeTitles = true
 # FixIt 0.3.0 | NEW whether to add site title to the title of every page
