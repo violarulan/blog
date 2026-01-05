@@ -1473,7 +1473,7 @@ shortname = "choco-blog"
 
 # Gitalk comment config (https://github.com/gitalk/gitalk)
 [params.page.comment.gitalk]
-enable = true
+enable = false
 owner = "violarulan"
 repo = "blog"
 clientId = "Ov23liPJCl3jCgfIkLkE"
@@ -1581,19 +1581,19 @@ katex = false
 
 # FixIt 0.2.14 | NEW Giscus comments config
 [params.page.comment.giscus]
-enable = false
-repo = ""
-repoId = ""
-category = ""
-categoryId = ""
+enable = true
+repo = "violarulan/blog"
+repoId = "R_kgDOQa1tgg"
+category = "General"
+categoryId = "DIC_kwDOQa1tgs4C0lTY"
 mapping = ""
-origin = "https://giscus.app" # FixIt NEW | 0.3.7 Or set it to your self-hosted domain
+origin = "https://words.choco.pub" # FixIt NEW | 0.3.7 Or set it to your self-hosted domain
 strict = "0" # FixIt NEW | 0.2.18
 term = ""
 reactionsEnabled = "1"
 emitMetadata = "0"
 inputPosition = "bottom" # ["top", "bottom"]
-lang = ""
+lang = "zh-CN"
 lightTheme = "light"
 darkTheme = "dark"
 lazyLoad = true
