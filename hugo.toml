@@ -480,7 +480,7 @@ issueTpl = "title=[BUG]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0
 # optional site title override for the app when added to an iOS home screen or Android launcher
 title = "Choco {Blog}"
 # whether to omit favicon resource links
-noFavicon = false
+noFavicon = true
 # modern SVG favicon to use in place of older style .png and .ico files
 svgFavicon = ""
 # Safari mask icon color
