@@ -3,6 +3,7 @@
 
 AS4242423845 CHOCO offers peering points in the following regions: 
 - 🇨🇳 Guangzhou, China
+- 🇨🇳 Chengdu, China (AKIX)
 - 🇺🇸 San Jose, United States
 - 🇭🇰 Hong Kong, Hong Kong
 - 🇩🇪 Frankfurt am Main, Deutschland
