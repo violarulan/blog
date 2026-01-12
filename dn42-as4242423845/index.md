@@ -21,11 +21,11 @@ GPG: [0x790baaf15a62bc56bc7c884b92663ebf14f7eb09](https://keyserver.ubuntu.com/p
 Technical specs:
 
 - ASN: 4242423845
-- RTT < 100ms.
+- RTT < 100ms accepted.
 - Wireguard peering only.
 - Prefer IPv6 Link-local address w/ MP-BGP and extended next hop.
 - Wireguard default port: 20000 + last 4 digits of your DN42 ASN. (If your DN42 ASN starts with 420, use 30000 + last 4 digits of you DN42 ASN.)
-- Clearnet endpoints are provided with dual-stack if available. You can append `v4.` or `v6.` at the beginning of the address to specify IP protocol.
+- Clearnet endpoints are provided with dual-stack if available. You can add `v4.` or `v6.` at the beginning of the address to specify IP protocol.
 
 - Prefix v4: 172.23.84.64/27
 - Prefix v6: fdd0:b9c2:f57a::/48
@@ -61,6 +61,11 @@ Technical specs:
 | IPv6 Link-Local      | fe80::114                                    |
 | IPv4 Address         | 172.23.84.66                                    |
 | IPv6 Address         | fdd0:b9c2:f57a::2                                   |
+
+| Region               | Chengdu - AKIX 🇨🇳                                 |
+|----------------------|----------------------------------------------|
+| Description    | IX direct peering only         |
+| IPv6 Link-Local      | fe80::be24:11ff:fe3b:1d24                                    |
 
 | Region               | Warsaw 🇵🇱                                 |
 |----------------------|----------------------------------------------|
